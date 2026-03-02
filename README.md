@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abdullah 👋
 
-<!--
-**mabdullahhananakram/mabdullahhananakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Master's Student  
+💻 Aspiring Machine Learning & MLOps Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently transitioning into Artificial Intelligence and Machine Learning with a focus on building scalable and production-ready systems.
+
+Background in:
+- Backend Development (PHP, MySQL)
+- Frontend Development (React.js)
+- Data-driven Digital Systems
+
+---
+
+## 🧠 Currently Learning
+
+- Python for AI
+- Machine Learning Fundamentals
+- Data Preprocessing & Model Evaluation
+- Git & Linux Workflows
+
+---
+
+## 📂 Upcoming Projects
+
+- Customer Churn Prediction Model
+- End-to-End ML Pipeline Project
+- Model Deployment API
+
+---
+
+📌 I will be sharing my learning journey and projects here.
