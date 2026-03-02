@@ -31,6 +31,11 @@ Background in:
 - End-to-End ML Pipeline Project
 - Model Deployment API
 
----
+
 
 📌 I will be sharing my learning journey and projects here.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/muhammad-abdullah-hanan-akram/)
